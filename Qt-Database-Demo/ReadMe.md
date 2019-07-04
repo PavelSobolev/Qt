@@ -10,8 +10,8 @@ This utility was created to provide quick and easy way of creating (and editing)
 
 #### Main window with table of schedule
 
-*Upper part of the widow has several lists (list of groups, list of curricula for the chosen group (with name of the lecturer), list of class's types (seminar, practical traning, lecture, exam, etc.), list of available rooms, and list of weeks.
-*The schedule can be different from week to week.
-*The table's rows represent days of chosen week, table's rows represent fixed standard times (start and finish) for each claass. 
+* pper part of the widow has several lists (list of groups, list of curricula for the chosen group (with name of the lecturer), list of class's types (seminar, practical traning, lecture, exam, etc.), list of available rooms, and list of weeks.
+* The schedule can be different from week to week.
+* The table's rows represent days of chosen week, table's rows represent fixed standard times (start and finish) for each claass. 
 
 ![UI](https://github.com/PavelSobolev/Qt/blob/master/Qt-Database-Demo/uiimg/01.png)
