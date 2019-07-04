@@ -20,4 +20,4 @@ This utility was created to provide quick and easy way of creating (and editing)
 
 This window contains list of student groups (according their specialization), list of academic disciplines of the chosen group. Also, there are two buttons (add new academic discipline, edit chosen academic discipline).
 
-![UI](https://github.com/PavelSobolev/Qt/blob/master/Qt-Database-Demo/uiimg/02.png) ![UI](https://github.com/PavelSobolev/Qt/blob/master/Qt-Database-Demo/uiimg/0_2).png)
+![UI](https://github.com/PavelSobolev/Qt/blob/master/Qt-Database-Demo/uiimg/02.png) ![UI](https://github.com/PavelSobolev/Qt/blob/master/Qt-Database-Demo/uiimg/0_2.png)
