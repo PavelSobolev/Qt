@@ -14,4 +14,4 @@ A wired model of cylinder is drawn in the main window. A sine wave is drawn on t
 
 #### UI example
 
-
+![UI](https://github.com/PavelSobolev/Qt/blob/master/OpenGL-glLookAt-Demo/uiimg/01.png)
