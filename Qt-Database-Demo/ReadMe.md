@@ -25,6 +25,6 @@ This window contains list of student groups (according their specialization), li
 
 #### Dialog for editing of chosen academic discipline (or adding a new academic discipline)
 
-This window allows to edit (or create) academic disciplines for the aims of this application. This action can be done by authorized stuff only (who is eligible to login to this app).
+This window allows to edit (or create) academic disciplines for the aims of this application. This action can be done by authorized stuff only (who is eligible to login to this app). Fields are main properties of the academic discipline (nfull name, short name (for demonstration on the web page), number of semester, name of the lecturer. 
 
 ![UI](https://github.com/PavelSobolev/Qt/blob/master/Qt-Database-Demo/uiimg/03.png) ![UI](https://github.com/PavelSobolev/Qt/blob/master/Qt-Database-Demo/uiimg/04.png)
