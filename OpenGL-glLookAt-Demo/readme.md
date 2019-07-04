@@ -10,4 +10,8 @@ A wired model of cylinder is drawn in the main window. A sine wave is drawn on t
 3. OpenGL / glu.h and glaux.h libraries
 
 
-#### [Video capture of the app's window](https://youtu.be/5JDk8NVAwG4)
+#### [Video capture of the app's window (YouTube)](https://youtu.be/5JDk8NVAwG4)
+
+#### UI example
+
+
